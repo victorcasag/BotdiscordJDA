@@ -1,0 +1,51 @@
+package PackageMain;
+
+import javax.security.auth.login.LoginException;
+import Commands.cmdHelp;
+import Commands.cmdMusic;
+import Commands.cmdPing;
+import PackageCommands.CommandHandler;
+import PackageCommands.MessageListener;
+import PackageListener.OnJoinEvent;
+import PackageListener.OnLeaveEvent;
+import PackageListener.ReadyListener;
+import net.dv8tion.jda.core.AccountType;
+import net.dv8tion.jda.core.JDA;
+import net.dv8tion.jda.core.JDABuilder;
+import net.dv8tion.jda.core.exceptions.RateLimitedException;
+
+public class BotMain {
+	static JDA jda;
+
+	public static void main(String[] args) {
+
+	   String token = "NjkxNjgzNjMxMzE1Mjg4MDc0.XnuVxA.1PpHXXPjiNi3xK8qAyDbxecFOAI";
+	    JDABuilder jdaBuilderVar = new JDABuilder(AccountType.BOT).setToken(token).setAutoReconnect(true);
+	            
+
+
+	    jdaBuilderVar.addListener(new ReadyListener());
+	    jdaBuilderVar.addListener(new MessageListener());
+	    jdaBuilderVar.addListener(new OnJoinEvent());
+	    jdaBuilderVar.addListener(new OnLeaveEvent());
+	    
+
+	    
+        CommandHandler.commands.put("help", new cmdHelp());
+        CommandHandler.commands.put("ping", new cmdPing()); 
+        CommandHandler.commands.put("play", new cmdMusic()); 
+        CommandHandler.commands.put("pause", new cmdMusic()); 
+        CommandHandler.commands.put("stop", new cmdMusic()); 
+        
+        try {
+            try {
+				jda = jdaBuilderVar.buildAsync();
+			} catch (IllegalArgumentException | RateLimitedException e) {
+
+				e.printStackTrace();
+			}
+        }catch (LoginException e){
+            System.out.println("Error: " + e);
+        }
+	}	
+}

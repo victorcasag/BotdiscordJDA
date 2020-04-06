@@ -1,0 +1,25 @@
+CustomFiltersActionGroup.org.eclipse.jdt.ui.PackageExplorer.TAG_DUMMY_TO_TEST_EXISTENCE=storedViewPreferences
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.Collection"><rhs name\="java.util.LinkedHashSet"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.LinkedHashSet"/></lhs><lhs name\="java.util.Set"><rhs name\="java.util.LinkedHashSet"/></lhs><lhs name\="com.sedmelluq.discord.lavaplayer.player.AudioPlayerManager"><rhs name\="com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.HashMap"/></lhs><lhs name\="com.sedmelluq.discord.lavaplayer.player.event.AudioEventAdapter"><rhs name\="PackageAudio.TrackManager"/></lhs><lhs name\="com.sedmelluq.discord.lavaplayer.player.event.AudioEventListener"><rhs name\="PackageAudio.TrackManager"/></lhs><lhs name\="PackageAudio.TrackManager"><rhs name\="PackageAudio.TrackManager"/></lhs><lhs name\="java.util.Map$Entry"><rhs name\="java.util.AbstractMap$SimpleEntry"/></lhs><lhs name\="java.awt.Paint"><rhs name\="java.awt.Color"/></lhs><lhs name\="java.awt.Transparency"><rhs name\="java.awt.Color"/></lhs><lhs name\="java.awt.Color"><rhs name\="java.awt.Color"/></lhs><lhs name\="PackageCommands.InterfaceCommand"><rhs name\="Commands.cmdMusic"/><rhs name\="Commands.cmdStop"/><rhs name\="Commands.cmdSkip"/><rhs name\="Commands.cmdQueue"/><rhs name\="Commands.cmdNow"/><rhs name\="PackageMusic.ClassMusic"/><rhs name\="Commands.cmdPlay"/><rhs name\="Commands.ClassMusic"/><rhs name\="Commands.cmdShuffle"/><rhs name\="Commands.cmdVolume"/></lhs><lhs name\="net.dv8tion.jda.api.audio.AudioSendHandler"><rhs name\="PackageAudio.AudioPlayerSendHandler"/></lhs><lhs name\="com.sedmelluq.discord.lavaplayer.track.TrackMarker"><rhs name\="com.sedmelluq.discord.lavaplayer.track.TrackMarker"/></lhs><lhs name\="net.dv8tion.jda.api.hooks.ListenerAdapter"><rhs name\="PackageMusic.MusicPlayer"/></lhs><lhs name\="net.dv8tion.jda.api.hooks.EventListener"><rhs name\="PackageMusic.MusicPlayer"/></lhs><lhs name\="PackageMusic.MusicPlayer"><rhs name\="PackageMusic.MusicPlayer"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.lang.Float"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+lastRecentlyUsedFilters=org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter,org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter,
+org.eclipse.buildship.ui.packageexplorer.filter.gradle.buildfolder=true
+org.eclipse.buildship.ui.packageexplorer.filter.gradle.subProject=true
+org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter=true
+org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter=true
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter=true
+org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter=true
+org.eclipse.jdt.ui.PackageExplorer.LibraryFilter=true
+org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter=true
+org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter=true
+org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter=true
+org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*=true
+org.eclipse.jdt.ui.formatterprofiles.version=17
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

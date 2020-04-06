@@ -1,0 +1,48 @@
+package PackageMain;
+
+
+import javax.security.auth.login.LoginException;
+
+import com.sedmelluq.lava.common.tools;
+
+import Commands.cmdHelp;
+import Commands.cmdMusic;
+import Commands.cmdPing;
+import PackageCommands.CommandHandler;
+import PackageCommands.MessageListener;
+import PackageListener.OnJoinEvent;
+import PackageListener.OnLeaveEvent;
+import PackageListener.ReadyListener;
+import net.dv8tion.jda.api.AccountType;
+import net.dv8tion.jda.api.JDA;
+import net.dv8tion.jda.api.JDABuilder;
+import net.dv8tion.jda.api.entities.Activity;
+
+public class BotMain {
+	static JDA jda;
+
+	@SuppressWarnings("deprecation")
+	public static void main(String[] args) {
+
+	   String token = "NjkxNjgzNjMxMzE1Mjg4MDc0.Xn4ebg.axfL_q6vFLIO07O2cfFC3vB_GQQ";
+	    JDABuilder jdaBuilderVar = new JDABuilder(AccountType.BOT).setToken(token).setAutoReconnect(true)
+	    									.setActivity(Activity.listening("/help twitch/b1ghouse"));
+	            
+	    jdaBuilderVar.addEventListeners(new ReadyListener());
+	    jdaBuilderVar.addEventListeners(new MessageListener());
+	    jdaBuilderVar.addEventListeners(new OnJoinEvent());
+	    jdaBuilderVar.addEventListeners(new OnLeaveEvent());
+	    
+        CommandHandler.commands.put("help", new cmdHelp());
+        CommandHandler.commands.put("ping", new cmdPing()); 
+        CommandHandler.commands.put("play", new cmdMusic()); 
+        CommandHandler.commands.put("pause", new cmdMusic()); 
+        CommandHandler.commands.put("stop", new cmdMusic()); 
+        
+        try {
+        	jda = jdaBuilderVar.build();
+        }catch (LoginException e){
+            System.out.println("Error: " + e);
+        }
+	}	
+}

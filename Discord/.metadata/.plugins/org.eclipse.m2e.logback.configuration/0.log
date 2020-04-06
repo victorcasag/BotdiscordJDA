@@ -1,0 +1,902 @@
+2020-03-25 13:53:00,674 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-03-25 14:10:50,250 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-03-25 16:27:28,054 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-03-25 23:28:39,422 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-03-27 10:37:51,940 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-03-27 15:46:08,523 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-03-27 16:27:58,274 [Worker-41: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DiscordBot:DiscordBot:0.0.1-SNAPSHOT @ C:\Users\victo\Desktop\Discord\DiscordBot\pom.xml.
+2020-03-27 16:27:59,735 [Worker-42: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:27:59,739 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 16:27:59,784 [Worker-42: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:27:59,785 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 16:27:59,797 [Worker-41: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscordBot/src
+2020-03-27 16:27:59,798 [Worker-41: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /DiscordBot/src overlaps with sources folder /DiscordBot/src
+2020-03-27 16:27:59,807 [Worker-41: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /DiscordBot/src/test/java because it overlaps with /DiscordBot/src
+2020-03-27 16:27:59,876 [Worker-41: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-27 16:28:00,200 [Worker-41: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DiscordBot:DiscordBot:0.0.1-SNAPSHOT @ C:\Users\victo\Desktop\Discord\DiscordBot\pom.xml.
+2020-03-27 16:28:00,405 [Worker-41: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscordBot/src
+2020-03-27 16:28:00,405 [Worker-41: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /DiscordBot/src overlaps with sources folder /DiscordBot/src
+2020-03-27 16:28:00,413 [Worker-41: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /DiscordBot/src/test/java because it overlaps with /DiscordBot/src
+2020-03-27 16:28:00,454 [Worker-41: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-03-27 16:28:00,889 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:28:00,891 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 16:28:00,943 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:28:00,944 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 16:29:17,221 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-03-27 16:29:23,860 [Worker-45: Launching DiscordBot] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\victo\Desktop\Discord\DiscordBot
+2020-03-27 16:29:23,861 [Worker-45: Launching DiscordBot] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2020-03-27 16:29:24,197 [Worker-45: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DiscordBot:DiscordBot:0.0.1-SNAPSHOT @ C:\Users\victo\Desktop\Discord\DiscordBot\pom.xml.
+2020-03-27 16:29:26,653 [Worker-45: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/sedmelluq/lavaplayer/x.y.z/lavaplayer-x.y.z.pom
+2020-03-27 16:29:26,656 [Worker-45: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sedmelluq:lavaplayer:jar:x.y.z is missing, no dependency information available
+2020-03-27 16:29:27,099 [Worker-45: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/sedmelluq/lavaplayer/x.y.z/lavaplayer-x.y.z.jar
+2020-03-27 16:29:27,236 [Worker-45: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:29:27,238 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-27 16:29:27,239 [Worker-45: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:29:27,240 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 16:29:28,132 [Worker-40: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sedmelluq:lavaplayer:jar:x.y.z is missing, no dependency information available
+2020-03-27 16:29:30,637 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/sedmelluq/lavaplayer/x.y.z/lavaplayer-x.y.z-sources.jar
+2020-03-27 16:29:30,641 [Worker-40: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.sedmelluq:lavaplayer:x.y.z
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sedmelluq:lavaplayer:jar:sources:x.y.z
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.500.v20190620-1426.jar:na]
+2020-03-27 16:29:45,688 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/sedmelluq/lavaplayer/x.y.z/lavaplayer-x.y.z-javadoc.jar
+2020-03-27 16:29:45,690 [Worker-41: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.sedmelluq:lavaplayer:x.y.z
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sedmelluq:lavaplayer:jar:javadoc:x.y.z
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.500.v20190620-1426.jar:na]
+2020-03-27 16:30:27,601 [Worker-44: Launching BotMain] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DiscordBot:DiscordBot:0.0.1-SNAPSHOT @ C:\Users\victo\Desktop\Discord\DiscordBot\pom.xml.
+2020-03-27 16:30:28,982 [Worker-44: Launching BotMain] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/sedmelluq/lavaplayer/1.3.39/lavaplayer-1.3.39.pom
+2020-03-27 16:30:29,244 [Worker-44: Launching BotMain] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/sedmelluq/lavaplayer/1.3.39/lavaplayer-1.3.39.pom
+2020-03-27 16:30:36,724 [Worker-44: Launching BotMain] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/sedmelluq/lavaplayer/1.3.39/lavaplayer-1.3.39.jar
+2020-03-27 16:30:39,080 [Worker-44: Launching BotMain] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/sedmelluq/lavaplayer/1.3.39/lavaplayer-1.3.39.jar
+2020-03-27 16:30:40,306 [Worker-44: Launching BotMain] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.4.12/httpcore-4.4.12.jar
+2020-03-27 16:30:41,046 [Worker-44: Launching BotMain] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.4.12/httpcore-4.4.12.jar
+2020-03-27 16:30:41,503 [Worker-44: Launching BotMain] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/commons-codec/commons-codec/1.11/commons-codec-1.11.jar
+2020-03-27 16:30:42,497 [Worker-44: Launching BotMain] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/commons-codec/commons-codec/1.11/commons-codec-1.11.jar
+2020-03-27 16:30:43,373 [Worker-44: Launching BotMain] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.10.0/jackson-annotations-2.10.0.jar
+2020-03-27 16:30:44,114 [Worker-44: Launching BotMain] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.10.0/jackson-annotations-2.10.0.jar
+2020-03-27 16:30:45,127 [Worker-44: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:30:45,128 [Worker-44: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-27 16:30:45,130 [Worker-44: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:30:45,131 [Worker-44: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 16:30:45,359 [Worker-41: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:30:45,364 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 16:30:45,412 [Worker-41: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:30:45,412 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 16:30:48,598 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/sedmelluq/lavaplayer/1.3.39/lavaplayer-1.3.39-sources.jar
+2020-03-27 16:30:50,267 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/sedmelluq/lavaplayer/1.3.39/lavaplayer-1.3.39-sources.jar
+2020-03-27 16:30:50,287 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sedmelluq:lavaplayer:1.3.39
+2020-03-27 16:30:51,596 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/sedmelluq/lava-common/1.1.0/lava-common-1.1.0-sources.jar
+2020-03-27 16:30:51,843 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/sedmelluq/lava-common/1.1.0/lava-common-1.1.0-sources.jar
+2020-03-27 16:30:51,861 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sedmelluq:lava-common:1.1.0
+2020-03-27 16:30:53,126 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/sedmelluq/lavaplayer-natives/1.3.13/lavaplayer-natives-1.3.13-sources.jar
+2020-03-27 16:30:53,381 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/sedmelluq/lavaplayer-natives/1.3.13/lavaplayer-natives-1.3.13-sources.jar
+2020-03-27 16:30:53,413 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sedmelluq:lavaplayer-natives:1.3.13
+2020-03-27 16:30:54,670 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar
+2020-03-27 16:30:55,393 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar
+2020-03-27 16:30:55,415 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.25
+2020-03-27 16:30:58,138 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10-sources.jar
+2020-03-27 16:31:00,079 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10-sources.jar
+2020-03-27 16:31:00,095 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpclient:4.5.10
+2020-03-27 16:31:02,417 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.4.12/httpcore-4.4.12-sources.jar
+2020-03-27 16:31:04,432 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.4.12/httpcore-4.4.12-sources.jar
+2020-03-27 16:31:04,533 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore:4.4.12
+2020-03-27 16:31:05,927 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2020-03-27 16:31:06,723 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2020-03-27 16:31:06,762 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2020-03-27 16:31:09,118 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/commons-codec/commons-codec/1.11/commons-codec-1.11-sources.jar
+2020-03-27 16:31:10,885 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/commons-codec/commons-codec/1.11/commons-codec-1.11-sources.jar
+2020-03-27 16:31:10,903 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.11
+2020-03-27 16:31:13,138 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/commons-io/commons-io/2.6/commons-io-2.6-sources.jar
+2020-03-27 16:31:14,412 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/commons-io/commons-io/2.6/commons-io-2.6-sources.jar
+2020-03-27 16:31:14,463 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-io:commons-io:2.6
+2020-03-27 16:31:17,188 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.10.0/jackson-core-2.10.0-sources.jar
+2020-03-27 16:31:18,803 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.10.0/jackson-core-2.10.0-sources.jar
+2020-03-27 16:31:18,837 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.10.0
+2020-03-27 16:31:21,832 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.10.0/jackson-databind-2.10.0-sources.jar
+2020-03-27 16:31:24,084 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.10.0/jackson-databind-2.10.0-sources.jar
+2020-03-27 16:31:24,107 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.10.0
+2020-03-27 16:31:25,445 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.10.0/jackson-annotations-2.10.0-sources.jar
+2020-03-27 16:31:26,253 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.10.0/jackson-annotations-2.10.0-sources.jar
+2020-03-27 16:31:26,270 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.10.0
+2020-03-27 16:31:27,543 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/org/jsoup/jsoup/1.12.1/jsoup-1.12.1-sources.jar
+2020-03-27 16:31:28,553 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/org/jsoup/jsoup/1.12.1/jsoup-1.12.1-sources.jar
+2020-03-27 16:31:28,570 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jsoup:jsoup:1.12.1
+2020-03-27 16:31:29,880 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/net/iharder/base64/2.3.9/base64-2.3.9-sources.jar
+2020-03-27 16:31:30,357 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/net/iharder/base64/2.3.9/base64-2.3.9-sources.jar
+2020-03-27 16:31:30,396 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.iharder:base64:2.3.9
+2020-03-27 16:31:30,399 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sedmelluq:lavaplayer:1.3.39
+2020-03-27 16:31:30,400 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sedmelluq:lava-common:1.1.0
+2020-03-27 16:31:30,402 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sedmelluq:lavaplayer-natives:1.3.13
+2020-03-27 16:31:30,405 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.25
+2020-03-27 16:31:30,407 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpclient:4.5.10
+2020-03-27 16:31:30,409 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore:4.4.12
+2020-03-27 16:31:30,411 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2020-03-27 16:31:30,413 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.11
+2020-03-27 16:31:30,415 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-io:commons-io:2.6
+2020-03-27 16:31:30,417 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.10.0
+2020-03-27 16:31:30,419 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.10.0
+2020-03-27 16:31:30,421 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.10.0
+2020-03-27 16:31:30,424 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jsoup:jsoup:1.12.1
+2020-03-27 16:31:30,426 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.iharder:base64:2.3.9
+2020-03-27 16:31:30,428 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.25
+2020-03-27 16:31:30,430 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpclient:4.5.10
+2020-03-27 16:31:30,432 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore:4.4.12
+2020-03-27 16:31:30,434 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2020-03-27 16:31:30,436 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.11
+2020-03-27 16:31:30,438 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-io:commons-io:2.6
+2020-03-27 16:31:30,440 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.10.0
+2020-03-27 16:31:30,442 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.10.0
+2020-03-27 16:31:30,444 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.10.0
+2020-03-27 16:31:30,446 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jsoup:jsoup:1.12.1
+2020-03-27 16:31:30,449 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.iharder:base64:2.3.9
+2020-03-27 16:31:30,593 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:31:30,593 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-27 16:31:30,594 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:31:30,594 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 16:37:14,581 [Worker-44: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:37:14,586 [Worker-44: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 16:37:14,589 [Worker-44: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:37:14,590 [Worker-44: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 16:40:39,603 [Worker-49: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:40:39,608 [Worker-49: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 16:40:39,610 [Worker-49: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:40:39,611 [Worker-49: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 16:41:27,845 [Worker-49: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:41:27,849 [Worker-49: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 16:41:27,850 [Worker-49: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:41:27,851 [Worker-49: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 16:43:06,403 [Worker-48: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:43:06,407 [Worker-48: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 16:43:06,409 [Worker-48: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:43:06,409 [Worker-48: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 16:43:47,497 [Worker-48: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:43:47,501 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 16:43:47,504 [Worker-48: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:43:47,505 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 16:46:06,879 [Worker-48: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:46:06,883 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 16:46:06,885 [Worker-48: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:46:06,886 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 16:47:02,289 [Worker-51: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:47:02,293 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 16:47:02,294 [Worker-51: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:47:02,295 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 16:48:05,589 [Worker-54: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:48:05,593 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 16:48:05,594 [Worker-54: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:48:05,595 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 16:48:18,276 [Worker-53: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:48:18,280 [Worker-53: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 16:48:18,282 [Worker-53: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:48:18,282 [Worker-53: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 16:48:39,787 [Worker-51: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:48:39,791 [Worker-51: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 16:48:39,792 [Worker-51: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:48:39,793 [Worker-51: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 16:54:17,718 [Worker-54: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:54:17,721 [Worker-54: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 16:54:17,723 [Worker-54: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:54:17,723 [Worker-54: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 16:57:04,894 [Worker-56: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:57:04,897 [Worker-56: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 16:57:04,899 [Worker-56: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:57:04,899 [Worker-56: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 16:58:03,199 [Worker-53: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:58:03,202 [Worker-53: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 16:58:03,206 [Worker-53: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 16:58:03,207 [Worker-53: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 17:14:58,362 [Worker-59: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:14:58,365 [Worker-59: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 17:14:58,367 [Worker-59: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:14:58,368 [Worker-59: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 17:18:08,367 [Worker-59: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:18:08,372 [Worker-59: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 17:18:08,374 [Worker-59: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:18:08,374 [Worker-59: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 17:28:18,144 [Worker-57: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:28:18,149 [Worker-57: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 17:28:18,150 [Worker-57: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:28:18,151 [Worker-57: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 17:29:20,960 [Worker-64: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:29:20,963 [Worker-64: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 17:29:20,964 [Worker-64: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:29:20,965 [Worker-64: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 17:29:55,397 [Worker-57: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:29:55,400 [Worker-57: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 17:29:55,401 [Worker-57: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:29:55,401 [Worker-57: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 17:30:13,008 [Worker-66: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:30:13,011 [Worker-66: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 17:30:13,012 [Worker-66: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:30:13,012 [Worker-66: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 17:30:51,439 [Worker-57: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:30:51,442 [Worker-57: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 17:30:51,444 [Worker-57: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:30:51,444 [Worker-57: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 17:31:44,930 [Worker-69: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:31:44,933 [Worker-69: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 17:31:44,934 [Worker-69: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:31:44,935 [Worker-69: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 17:32:13,691 [Worker-64: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:32:13,695 [Worker-64: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 17:32:13,696 [Worker-64: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:32:13,697 [Worker-64: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 17:36:02,419 [Worker-69: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:36:02,422 [Worker-69: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 17:36:02,423 [Worker-69: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:36:02,424 [Worker-69: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 17:47:20,102 [Worker-74: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:47:20,106 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 17:47:20,107 [Worker-74: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:47:20,107 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 17:48:23,834 [Worker-77: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:48:23,839 [Worker-77: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 17:48:23,840 [Worker-77: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:48:23,841 [Worker-77: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 17:48:51,698 [Worker-77: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:48:51,701 [Worker-77: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 17:48:51,702 [Worker-77: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:48:51,703 [Worker-77: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 17:49:46,383 [Worker-74: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:49:46,387 [Worker-74: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 17:49:46,388 [Worker-74: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:49:46,389 [Worker-74: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 17:51:54,643 [Worker-64: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:51:54,645 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 17:51:54,646 [Worker-64: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 17:51:54,647 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:01:42,795 [Worker-79: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:01:42,798 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:01:42,799 [Worker-79: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:01:42,800 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:01:59,411 [Worker-79: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:01:59,414 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:01:59,415 [Worker-79: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:01:59,416 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:02:09,651 [Worker-79: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:02:09,655 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:02:09,657 [Worker-79: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:02:09,657 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:06:29,220 [Worker-83: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:06:29,224 [Worker-83: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:06:29,225 [Worker-83: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:06:29,226 [Worker-83: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:06:55,829 [Worker-74: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:06:55,832 [Worker-74: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:06:55,833 [Worker-74: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:06:55,834 [Worker-74: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:15:01,589 [Worker-88: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:15:01,592 [Worker-88: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:15:01,594 [Worker-88: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:15:01,594 [Worker-88: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:18:25,119 [Worker-88: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:18:25,122 [Worker-88: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:18:25,123 [Worker-88: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:18:25,124 [Worker-88: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:22:42,532 [Worker-87: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:22:42,535 [Worker-87: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:22:42,538 [Worker-87: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:22:42,539 [Worker-87: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:25:17,392 [Worker-88: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:25:17,395 [Worker-88: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:25:17,396 [Worker-88: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:25:17,397 [Worker-88: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:30:49,181 [Worker-95: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:30:49,184 [Worker-95: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:30:49,185 [Worker-95: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:30:49,186 [Worker-95: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:33:18,556 [Worker-89: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:33:18,559 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:33:18,561 [Worker-89: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:33:18,561 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:34:56,159 [Worker-96: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:34:56,162 [Worker-96: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:34:56,163 [Worker-96: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:34:56,163 [Worker-96: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:38:15,214 [Worker-97: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:38:15,218 [Worker-97: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:38:15,219 [Worker-97: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:38:15,220 [Worker-97: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:38:48,212 [Worker-87: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:38:48,215 [Worker-87: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:38:48,216 [Worker-87: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:38:48,217 [Worker-87: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:42:43,447 [Worker-98: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:42:43,450 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:42:43,451 [Worker-98: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:42:43,452 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:43:05,613 [Worker-95: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:43:05,617 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:43:05,618 [Worker-95: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:43:05,619 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:43:14,120 [Worker-99: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:43:14,123 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:43:14,124 [Worker-99: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:43:14,125 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:45:25,264 [Worker-101: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:45:25,267 [Worker-101: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:45:25,267 [Worker-101: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:45:25,268 [Worker-101: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:45:42,391 [Worker-101: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:45:42,393 [Worker-101: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:45:42,394 [Worker-101: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:45:42,395 [Worker-101: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:53:06,620 [Worker-97: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:53:06,623 [Worker-97: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:53:06,624 [Worker-97: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:53:06,624 [Worker-97: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:53:47,784 [Worker-102: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:53:47,788 [Worker-102: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:53:47,789 [Worker-102: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:53:47,790 [Worker-102: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 18:54:46,029 [Worker-102: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:54:46,032 [Worker-102: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 18:54:46,033 [Worker-102: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 18:54:46,034 [Worker-102: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-27 19:03:37,210 [Worker-97: Launching BotMain] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-03-27 19:03:37,212 [Worker-97: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 19:03:37,215 [Worker-97: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-27 19:03:37,216 [Worker-97: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-27 19:03:37,217 [Worker-97: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 01:22:37,625 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-03-29 12:41:57,522 [Worker-220: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 12:41:57,528 [Worker-220: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 12:41:57,607 [Worker-220: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 12:41:57,608 [Worker-220: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 12:42:20,650 [Worker-221: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 12:42:20,657 [Worker-221: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 12:42:20,659 [Worker-221: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 12:42:20,660 [Worker-221: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 12:42:43,497 [Worker-221: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 12:42:43,500 [Worker-221: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 12:42:43,501 [Worker-221: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 12:42:43,502 [Worker-221: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 12:43:04,422 [Worker-220: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 12:43:04,425 [Worker-220: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 12:43:04,464 [Worker-220: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 12:43:04,464 [Worker-220: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 15:52:54,161 [Worker-248: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 15:52:54,164 [Worker-248: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 15:52:54,166 [Worker-248: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 15:52:54,167 [Worker-248: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 15:53:02,948 [Worker-252: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 15:53:02,951 [Worker-252: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 15:53:02,953 [Worker-252: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 15:53:02,954 [Worker-252: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 15:53:30,316 [Worker-254: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 15:53:30,324 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 15:53:30,327 [Worker-254: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 15:53:30,328 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 15:53:34,630 [Worker-254: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 15:53:34,633 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 15:53:34,635 [Worker-254: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 15:53:34,636 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 15:54:39,555 [Worker-255: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 15:54:39,559 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 15:54:39,560 [Worker-255: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 15:54:39,561 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 15:54:40,932 [Worker-256: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 15:54:40,936 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 15:54:40,938 [Worker-256: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 15:54:40,939 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 15:55:12,035 [Worker-248: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 15:55:12,039 [Worker-248: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 15:55:12,041 [Worker-248: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 15:55:12,042 [Worker-248: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 15:57:15,143 [Worker-255: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 15:57:15,146 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 15:57:15,149 [Worker-255: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 15:57:15,150 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 15:58:12,297 [Worker-252: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 15:58:12,300 [Worker-252: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 15:58:12,302 [Worker-252: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 15:58:12,303 [Worker-252: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 16:01:12,807 [Worker-261: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 16:01:12,812 [Worker-261: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 16:01:12,814 [Worker-261: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 16:01:12,815 [Worker-261: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 16:02:12,093 [Worker-260: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 16:02:12,096 [Worker-260: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 16:02:12,097 [Worker-260: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 16:02:12,098 [Worker-260: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 16:02:53,604 [Worker-254: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 16:02:53,607 [Worker-254: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 16:02:53,610 [Worker-254: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 16:02:53,610 [Worker-254: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 16:07:48,483 [Worker-257: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 16:07:48,486 [Worker-257: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 16:07:48,487 [Worker-257: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 16:07:48,488 [Worker-257: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 16:08:23,201 [Worker-262: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 16:08:23,205 [Worker-262: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 16:08:23,207 [Worker-262: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 16:08:23,208 [Worker-262: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 16:11:17,802 [Worker-262: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 16:11:17,805 [Worker-262: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 16:11:17,807 [Worker-262: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 16:11:17,808 [Worker-262: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 16:20:10,972 [Worker-268: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 16:20:10,975 [Worker-268: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 16:20:10,978 [Worker-268: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 16:20:10,979 [Worker-268: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 16:20:43,543 [Worker-266: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 16:20:43,546 [Worker-266: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 16:20:43,548 [Worker-266: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 16:20:43,549 [Worker-266: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:06:57,281 [Worker-294: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:06:57,289 [Worker-294: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:06:57,292 [Worker-294: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:06:57,293 [Worker-294: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:07:08,088 [Worker-294: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:07:08,091 [Worker-294: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:07:08,092 [Worker-294: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:07:08,093 [Worker-294: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:07:17,014 [Worker-296: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:07:17,017 [Worker-296: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:07:17,018 [Worker-296: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:07:17,019 [Worker-296: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:14:11,161 [Worker-294: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:14:11,164 [Worker-294: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:14:11,165 [Worker-294: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:14:11,166 [Worker-294: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:16:11,778 [Worker-302: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:16:11,781 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:16:11,783 [Worker-302: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:16:11,783 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:16:34,507 [Worker-301: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:16:34,510 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:16:34,511 [Worker-301: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:16:34,512 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:21:11,709 [Worker-305: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:21:11,713 [Worker-305: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:21:11,714 [Worker-305: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:21:11,715 [Worker-305: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:22:57,288 [Worker-304: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:22:57,292 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:22:57,293 [Worker-304: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:22:57,294 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:23:28,116 [Worker-294: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:23:28,119 [Worker-294: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:23:28,120 [Worker-294: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:23:28,121 [Worker-294: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:25:19,025 [Worker-294: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:25:19,029 [Worker-294: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:25:19,030 [Worker-294: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:25:19,030 [Worker-294: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:25:36,509 [Worker-299: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:25:36,512 [Worker-299: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:25:36,514 [Worker-299: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:25:36,515 [Worker-299: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:27:56,298 [Worker-305: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:27:56,301 [Worker-305: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:27:56,303 [Worker-305: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:27:56,303 [Worker-305: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:29:44,613 [Worker-307: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:29:44,616 [Worker-307: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:29:44,617 [Worker-307: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:29:44,618 [Worker-307: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:30:54,362 [Worker-304: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:30:54,365 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:30:54,366 [Worker-304: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:30:54,367 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:31:25,977 [Worker-304: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:31:25,980 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:31:25,981 [Worker-304: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:31:25,982 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:32:09,816 [Worker-299: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:32:09,819 [Worker-299: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:32:09,821 [Worker-299: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:32:09,821 [Worker-299: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:34:40,478 [Worker-305: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:34:40,481 [Worker-305: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:34:40,483 [Worker-305: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:34:40,483 [Worker-305: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:34:43,413 [Worker-304: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:34:43,415 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:34:43,417 [Worker-304: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:34:43,417 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:35:11,880 [Worker-304: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:35:11,883 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:35:11,885 [Worker-304: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:35:11,886 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:38:17,007 [Worker-306: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:38:17,010 [Worker-306: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:38:17,038 [Worker-306: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:38:17,038 [Worker-306: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:39:33,518 [Worker-309: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:39:33,521 [Worker-309: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:39:33,522 [Worker-309: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:39:33,523 [Worker-309: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:48:09,815 [Worker-314: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:48:09,819 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:48:09,821 [Worker-314: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:48:09,821 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:48:26,578 [Worker-306: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:48:26,580 [Worker-306: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:48:26,581 [Worker-306: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:48:26,582 [Worker-306: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:48:33,094 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:48:33,098 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:48:33,099 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:48:33,100 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 19:48:45,537 [Worker-313: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:48:45,540 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 19:48:45,541 [Worker-313: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 19:48:45,542 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:01:10,135 [Worker-319: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:01:10,138 [Worker-319: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:01:10,140 [Worker-319: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:01:10,141 [Worker-319: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:01:47,212 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:01:47,215 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:01:47,216 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:01:47,217 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:04:05,946 [Worker-315: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:04:05,948 [Worker-315: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:04:05,949 [Worker-315: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:04:05,950 [Worker-315: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:04:14,160 [Worker-317: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:04:14,162 [Worker-317: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:04:14,163 [Worker-317: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:04:14,164 [Worker-317: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:05:19,077 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:05:19,079 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:05:19,080 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:05:19,081 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:06:34,980 [Worker-321: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:06:34,983 [Worker-321: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:06:34,984 [Worker-321: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:06:34,984 [Worker-321: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:07:18,319 [Worker-320: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:07:18,323 [Worker-320: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:07:18,324 [Worker-320: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:07:18,325 [Worker-320: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:09:56,438 [Worker-322: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:09:56,442 [Worker-322: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:09:56,444 [Worker-322: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:09:56,445 [Worker-322: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:10:59,998 [Worker-317: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:11:00,001 [Worker-317: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:11:00,003 [Worker-317: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:11:00,004 [Worker-317: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:11:35,636 [Worker-323: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:11:35,639 [Worker-323: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:11:35,641 [Worker-323: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:11:35,641 [Worker-323: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:12:25,911 [Worker-322: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:12:25,913 [Worker-322: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:12:25,914 [Worker-322: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:12:25,914 [Worker-322: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:12:30,549 [Worker-326: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:12:30,551 [Worker-326: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:12:30,552 [Worker-326: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:12:30,553 [Worker-326: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:19:16,747 [Worker-321: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:19:16,751 [Worker-321: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:19:16,752 [Worker-321: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:19:16,753 [Worker-321: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:19:55,162 [Worker-321: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:19:55,165 [Worker-321: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:19:55,166 [Worker-321: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:19:55,167 [Worker-321: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:19:56,187 [Worker-321: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:19:56,189 [Worker-321: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:19:56,192 [Worker-321: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:19:56,193 [Worker-321: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:22:52,153 [Worker-331: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:22:52,156 [Worker-331: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:22:52,157 [Worker-331: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:22:52,158 [Worker-331: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:23:04,251 [Worker-329: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:23:04,253 [Worker-329: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:23:04,254 [Worker-329: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:23:04,255 [Worker-329: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:25:15,709 [Worker-330: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:25:15,712 [Worker-330: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:25:15,714 [Worker-330: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:25:15,714 [Worker-330: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:25:23,242 [Worker-317: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:25:23,245 [Worker-317: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:25:23,247 [Worker-317: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:25:23,247 [Worker-317: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:26:41,449 [Worker-326: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:26:41,452 [Worker-326: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:26:41,454 [Worker-326: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:26:41,455 [Worker-326: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:27:37,466 [Worker-329: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:27:37,470 [Worker-329: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:27:37,472 [Worker-329: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:27:37,472 [Worker-329: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:28:45,361 [Worker-326: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:28:45,364 [Worker-326: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:28:45,365 [Worker-326: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:28:45,366 [Worker-326: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:29:36,251 [Worker-326: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:29:36,254 [Worker-326: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:29:36,255 [Worker-326: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:29:36,256 [Worker-326: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:30:20,698 [Worker-330: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:30:20,701 [Worker-330: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:30:20,702 [Worker-330: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:30:20,703 [Worker-330: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:33:36,307 [Worker-332: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:33:36,310 [Worker-332: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:33:36,311 [Worker-332: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:33:36,312 [Worker-332: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:35:41,966 [Worker-331: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:35:41,968 [Worker-331: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:35:41,969 [Worker-331: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:35:41,970 [Worker-331: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:36:08,642 [Worker-334: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:36:08,645 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:36:08,647 [Worker-334: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:36:08,648 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:36:37,274 [Worker-332: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:36:37,277 [Worker-332: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:36:37,278 [Worker-332: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:36:37,279 [Worker-332: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 20:48:48,578 [Worker-336: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:48:48,580 [Worker-336: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 20:48:48,581 [Worker-336: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 20:48:48,582 [Worker-336: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 21:11:14,266 [Worker-341: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:11:14,270 [Worker-341: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 21:11:14,271 [Worker-341: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:11:14,272 [Worker-341: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 21:11:37,855 [Worker-342: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:11:37,857 [Worker-342: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 21:11:37,859 [Worker-342: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:11:37,859 [Worker-342: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 21:12:51,463 [Worker-340: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:12:51,466 [Worker-340: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 21:12:51,467 [Worker-340: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:12:51,468 [Worker-340: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 21:23:01,514 [Worker-345: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:23:01,517 [Worker-345: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 21:23:01,518 [Worker-345: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:23:01,518 [Worker-345: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 21:24:42,403 [Worker-341: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:24:42,407 [Worker-341: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 21:24:42,408 [Worker-341: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:24:42,409 [Worker-341: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 21:27:47,153 [Worker-347: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:27:47,156 [Worker-347: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 21:27:47,158 [Worker-347: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:27:47,159 [Worker-347: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 21:30:45,295 [Worker-349: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:30:45,298 [Worker-349: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 21:30:45,299 [Worker-349: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:30:45,300 [Worker-349: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 21:37:19,795 [Worker-348: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:37:19,798 [Worker-348: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 21:37:19,800 [Worker-348: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:37:19,801 [Worker-348: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 21:37:55,910 [Worker-352: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:37:55,913 [Worker-352: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 21:37:55,915 [Worker-352: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:37:55,915 [Worker-352: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 21:42:17,162 [Worker-352: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:42:17,164 [Worker-352: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 21:42:17,166 [Worker-352: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:42:17,166 [Worker-352: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 21:46:09,358 [Worker-348: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:46:09,361 [Worker-348: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 21:46:09,362 [Worker-348: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:46:09,363 [Worker-348: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 21:49:01,255 [Worker-348: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:49:01,258 [Worker-348: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 21:49:01,260 [Worker-348: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:49:01,260 [Worker-348: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 21:49:45,030 [Worker-355: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:49:45,034 [Worker-355: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 21:49:45,035 [Worker-355: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:49:45,036 [Worker-355: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 21:58:12,520 [Worker-359: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:58:12,524 [Worker-359: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 21:58:12,526 [Worker-359: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 21:58:12,527 [Worker-359: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 22:04:05,147 [Worker-359: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 22:04:05,151 [Worker-359: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 22:04:05,152 [Worker-359: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 22:04:05,152 [Worker-359: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 22:05:30,311 [Worker-364: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 22:05:30,314 [Worker-364: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 22:05:30,316 [Worker-364: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 22:05:30,316 [Worker-364: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 22:09:36,184 [Worker-366: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 22:09:36,187 [Worker-366: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 22:09:36,188 [Worker-366: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 22:09:36,188 [Worker-366: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 22:10:46,319 [Worker-364: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 22:10:46,323 [Worker-364: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 22:10:46,324 [Worker-364: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 22:10:46,325 [Worker-364: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 22:17:35,237 [Worker-359: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 22:17:35,240 [Worker-359: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 22:17:35,241 [Worker-359: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 22:17:35,242 [Worker-359: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 22:19:15,441 [Worker-364: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 22:19:15,443 [Worker-364: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 22:19:15,445 [Worker-364: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 22:19:15,445 [Worker-364: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 22:21:21,115 [Worker-359: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 22:21:21,117 [Worker-359: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 22:21:21,119 [Worker-359: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 22:21:21,119 [Worker-359: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 22:28:27,871 [Worker-367: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 22:28:27,874 [Worker-367: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 22:28:27,875 [Worker-367: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 22:28:27,876 [Worker-367: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-29 22:29:47,368 [Worker-365: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 22:29:47,371 [Worker-365: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-29 22:29:47,372 [Worker-365: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 22:29:47,373 [Worker-365: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-30 10:24:27,671 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-03-30 11:04:43,031 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 11:04:43,036 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-30 11:04:43,042 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 11:04:43,043 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-30 11:11:23,554 [Worker-46: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 11:11:23,557 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-30 11:11:23,558 [Worker-46: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 11:11:23,559 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-30 11:11:37,234 [Worker-43: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 11:11:37,239 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-30 11:11:37,242 [Worker-43: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 11:11:37,242 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-30 11:12:53,306 [Worker-45: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 11:12:53,311 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-30 11:12:53,312 [Worker-45: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 11:12:53,313 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 00:26:57,476 [Worker-189: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 00:26:57,493 [Worker-189: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 00:26:57,497 [Worker-189: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 00:26:57,498 [Worker-189: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 00:35:27,628 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-03-31 00:36:29,016 [Worker-10: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 00:36:29,022 [Worker-10: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 00:36:29,030 [Worker-10: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 00:36:29,031 [Worker-10: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 11:54:47,996 [Worker-206: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 11:54:48,005 [Worker-206: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 11:54:48,008 [Worker-206: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 11:54:48,009 [Worker-206: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 15:52:15,255 [Worker-261: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 15:52:15,261 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 15:52:15,263 [Worker-261: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 15:52:15,264 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 15:52:42,494 [Worker-261: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 15:52:42,497 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 15:52:42,499 [Worker-261: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 15:52:42,500 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 15:59:28,320 [Worker-266: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 15:59:28,323 [Worker-266: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 15:59:28,326 [Worker-266: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 15:59:28,326 [Worker-266: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 16:00:01,085 [Worker-266: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:00:01,089 [Worker-266: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 16:00:01,090 [Worker-266: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:00:01,091 [Worker-266: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 16:05:05,884 [Worker-266: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:05:05,888 [Worker-266: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 16:05:05,890 [Worker-266: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:05:05,890 [Worker-266: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 16:12:20,904 [Worker-268: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:12:20,907 [Worker-268: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 16:12:20,909 [Worker-268: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:12:20,909 [Worker-268: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 16:27:43,871 [Worker-273: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:27:43,874 [Worker-273: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 16:27:43,875 [Worker-273: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:27:43,876 [Worker-273: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 16:42:43,953 [Worker-274: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:42:43,958 [Worker-274: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 16:42:43,960 [Worker-274: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:42:43,961 [Worker-274: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 16:42:50,302 [Worker-274: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:42:50,305 [Worker-274: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 16:42:50,307 [Worker-274: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:42:50,307 [Worker-274: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 16:46:40,254 [Worker-277: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:46:40,258 [Worker-277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 16:46:40,259 [Worker-277: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:46:40,260 [Worker-277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 16:47:15,589 [Worker-277: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:47:15,594 [Worker-277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 16:47:15,596 [Worker-277: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:47:15,598 [Worker-277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 16:53:09,127 [Worker-282: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:53:09,130 [Worker-282: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 16:53:09,132 [Worker-282: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:53:09,132 [Worker-282: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 16:53:34,584 [Worker-277: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:53:34,588 [Worker-277: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 16:53:34,590 [Worker-277: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:53:34,590 [Worker-277: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 16:54:28,693 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:54:28,697 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 16:54:28,699 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:54:28,700 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 16:57:17,550 [Worker-281: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:57:17,553 [Worker-281: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 16:57:17,555 [Worker-281: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:57:17,556 [Worker-281: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 16:58:04,084 [Worker-277: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:58:04,087 [Worker-277: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 16:58:04,088 [Worker-277: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 16:58:04,089 [Worker-277: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 17:04:39,298 [Worker-281: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:04:39,301 [Worker-281: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 17:04:39,303 [Worker-281: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:04:39,304 [Worker-281: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 17:09:07,497 [Worker-282: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:09:07,500 [Worker-282: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 17:09:07,501 [Worker-282: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:09:07,502 [Worker-282: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 17:11:26,775 [Worker-285: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:11:26,778 [Worker-285: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 17:11:26,779 [Worker-285: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:11:26,780 [Worker-285: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 17:16:01,206 [Worker-287: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:16:01,209 [Worker-287: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 17:16:01,211 [Worker-287: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:16:01,211 [Worker-287: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 17:19:14,132 [Worker-282: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:19:14,136 [Worker-282: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 17:19:14,137 [Worker-282: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:19:14,138 [Worker-282: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 17:23:14,648 [Worker-285: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:23:14,652 [Worker-285: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 17:23:14,653 [Worker-285: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:23:14,653 [Worker-285: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 17:24:19,478 [Worker-282: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:24:19,482 [Worker-282: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 17:24:19,484 [Worker-282: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:24:19,485 [Worker-282: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 17:24:49,414 [Worker-288: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:24:49,418 [Worker-288: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 17:24:49,419 [Worker-288: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:24:49,420 [Worker-288: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 17:25:00,790 [Worker-285: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:25:00,794 [Worker-285: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 17:25:00,796 [Worker-285: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:25:00,797 [Worker-285: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-03-31 17:28:33,945 [Worker-282: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:28:33,949 [Worker-282: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-03-31 17:28:33,951 [Worker-282: Launching BotMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-31 17:28:33,951 [Worker-282: Launching BotMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
+2020-04-01 20:12:13,178 [Worker-624: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 20:12:13,185 [Worker-624: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-04-01 20:12:13,187 [Worker-624: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 20:12:13,187 [Worker-624: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\Desktop\Discord\DiscordBot\src\test\resources
